@@ -1,0 +1,12 @@
+INSERT INTO incoming_order(description,price,producer,provider,weight) VALUES('Big Order',10.0,'NIKE','UPS',15)
+INSERT INTO incoming_order(description,price,producer,provider,weight) VALUES('Small Order',15,'adidas','DDL',150)
+INSERT INTO incoming_order(description,price,producer,provider,weight) VALUES('Exspensive Order',10.7,'puma','Amazon',175)
+INSERT INTO incoming_order(description,price,producer,provider,weight) VALUES('Clear Order',100.0,'audi','DDL',255)
+INSERT INTO incoming_order(description,price,producer,provider,weight) VALUES('Nice Order',10,'rebook','UPS',1000)
+INSERT INTO incoming_order(description,price,producer,provider,weight) VALUES('Friday Order',14.0,'Book','DDL',5263)
+INSERT INTO incoming_order(description,price,producer,provider,weight) VALUES('Monday Order',15.5,'empik','Amazon',444)
+INSERT INTO incoming_order(description,price,producer,provider,weight) VALUES('BEST Order',17.0,'sad','DDL',18)
+INSERT INTO incoming_order(description,price,producer,provider,weight) VALUES('Boos Order',10.8,'bad','UPS',9)
+INSERT INTO incoming_order(description,price,producer,provider,weight) VALUES('shoe Order',19.7,'wak','UPS',8)
+
+
